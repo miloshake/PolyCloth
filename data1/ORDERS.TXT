@@ -1,0 +1,28 @@
+Order for: Vinze (siegavinze@gmail.com)
+- Polo: PHP 790.00
+- Pullover: PHP 1490.00
+- Leather: PHP 2590.00
+Subtotal: PHP 4870.00
+Final Total: PHP 4870.00
+Status: Confirmed
+---
+Subscription Change for: Vinze (siegavinze@gmail.com)
+New Plan: Monthly Premium
+Status: Activated
+---
+Subscription Change for: Vinze (siegavinze@gmail.com)
+New Plan: None
+Status: Activated
+---
+Subscription Change for: Vinze (siegavinze@gmail.com)
+New Plan: Monthly Premium
+Status: Activated
+---
+Subscription Change for: Rion (fcaty@gmail.com)
+New Plan: Monthly Premium
+Status: Activated
+---
+Subscription Change for: Rion (fcaty@gmail.com)
+New Plan: None
+Status: Activated
+---
