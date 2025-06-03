@@ -64,6 +64,11 @@ PROJECT/
 3. **Default Admin Credentials**
    - Username: `admin`
    - Password: `admin123`
+   
+4. **Current Admin Credentials**
+   - Username: `poly_cloth`
+   - Password: `clothing_421`
+**Note**: You could change the admin credentials in the data1 folder!!
 
 ## Usage Guide
 
