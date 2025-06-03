@@ -34,9 +34,7 @@ A console-based clothing e-commerce application developed in C using Turbo C++ e
 ```
 PROJECT/
 ├── PC.CPP              # Main application file
-├── CODE_6.CPP          # Alternative implementation
 ├── PC.BAK              # Backup file
-├── CODE_6.BAK          # Backup file
 └── C:data1/            # Data directory
     ├── userinfo.txt    # User account data
     ├── cart.txt        # Shopping cart data
