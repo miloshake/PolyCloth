@@ -212,9 +212,9 @@ This project is developed for educational purposes. Free to use and modify.
 
 ## Contributors
 
-- Original development in Turbo C++ environment
-- Console-based e-commerce system implementation
-- File-based data management system
+- [Vinze Siega](https://github.com/miloshake) 
+- [Kenji Gapuz](github.com/S1drra)
+- [Anne Margaret Tablanza](https://github.com/Margaeu)
 
 ---
 
